@@ -2,12 +2,155 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="775b2889-34e7-471e-8877-5e678a893311" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Basic grammar/Exercise28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basic grammar/Exercise29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basic grammar/Exercise30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basic grammar/Exercise31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/开到茶蘼.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/Exercise32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Aatrox_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Ahri_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Akali_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Alistar_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Amumu_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Anivia_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Annie_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Aphelios_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Ashe_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Aurelionsol_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Azir_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Bard_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Blitzcrank_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Brand_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Braum_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Caitlyn_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Camille_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Cassiopeia_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Chogath_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Corki_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Darius_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Diana_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Draven_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Drmundo_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Ekko_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Elise_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Evelynn_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Ezreal_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Fiddlesticks_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Fiora_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Fizz_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Galio_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Gangplank_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Garen_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Gnar_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Gragas_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Graves_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Hecarim_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Heimerdinger_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Illaoi_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Irelia_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Ivern_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Janna_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Jarvaniv_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Jax_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Jayce_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Jhin_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Jinx_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Kaisa_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Kalista_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Karma_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Karthus_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Kassadin_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Katarina_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Kayle_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Kayn_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Kennen_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Khazix_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Kindred_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Kled_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Kogmaw_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Leblanc_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Leesin_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Leona_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Lissandra_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Lucian_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Lulu_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Lux_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Malphite_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Malzahar_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Maokai_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Masteryi_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Missfortune_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Monkeyking_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Mordekaiser_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Morgana_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Nami_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Nasus_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Nautilus_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Neeko_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Nidalee_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Nocturne_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Nunu_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Olaf_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Orianna_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Ornn_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Pantheon_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Poppy_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Pyke_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Qiyana_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Quinn_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Rakan_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Rammus_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Reksai_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Renekton_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Rengar_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Riven_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Rumble_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Ryze_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Sejuani_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Senna_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Sett_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Shaco_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Shen_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Shyvana_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Singed_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Sion_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Sivir_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Skarner_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Sona_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Soraka_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Swain_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Sylas_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Syndra_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Tahmkench_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Taliyah_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Talon_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Taric_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Teemo_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Thresh_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Tristana_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Trundle_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Tryndamere_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Twistedfate_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Twitch_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Udyr_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Urgot_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Varus_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Vayne_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Veigar_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Velkoz_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Vi_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Viktor_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Vladimir_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Volibear_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Warwick_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Xayah_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Xerath_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Xinzhao_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Yasuo_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Yorick_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Yuumi_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Zac_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Zed_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Ziggs_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Zilean_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Zoe_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/Zyra_0.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,9 +170,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZffJscS6SnDH73wB6HUpWkERH0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -48,49 +195,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exercise30">
-    <configuration name="Exercise26" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python Learn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Basic grammar" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Basic grammar/Exercise26.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Exercise27" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python Learn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Basic grammar" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Basic grammar/Exercise27.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Exercise32">
     <configuration name="Exercise28" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,13 +259,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Exercise31" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Basic grammar" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Basic grammar/Exercise31.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercise32" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Basic grammar" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Basic grammar/Exercise32.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercise32" />
+        <item itemvalue="Python.Exercise31" />
         <item itemvalue="Python.Exercise30" />
         <item itemvalue="Python.Exercise28" />
         <item itemvalue="Python.Exercise29" />
-        <item itemvalue="Python.Exercise27" />
-        <item itemvalue="Python.Exercise26" />
       </list>
     </recent_temporary>
   </component>
@@ -189,5 +336,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
