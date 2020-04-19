@@ -11,7 +11,7 @@ w = wordcloud.WordCloud(
     height=700,
     background_color='#6c909e',
     colormap='GnBu',
-    font_path='./res/font/SimHei.ttf')
+    font_path='./res/SimHei.ttf')
 
 # 调用jieba的cut()方法对原始的文本进行中文分词，得到string
 txt = '孤独不曾远离，幸福却也无处不在，只是自己总是不愿意去拾起那些飘落，\
@@ -23,4 +23,4 @@ string = " ".join(txtlist)
 w.generate(string)
 
 # 将词云图片导出到当前文件夹
-w.to_file('./res/img/output4.png')
+w.to_file('./res/output4.png')

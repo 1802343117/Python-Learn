@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="775b2889-34e7-471e-8877-5e678a893311" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Basic grammar/Exercise41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/excel/班级卡片数据.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/Exercise42.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/Exercise43.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/excel/soft1851班级资料卡片数据表.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Basic grammar/Exercise38.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Basic grammar/Exercise38.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/excel/班级卡片数据.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Python Basic grammar/res/excel/班级卡片数据.xlsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
