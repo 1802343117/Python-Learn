@@ -12,6 +12,7 @@ from email.mime.image import MIMEImage
 from email.mime.multipart import MIMEMultipart
 # 负责构造邮件头信息
 from email.header import Header
+
 # SMTP服务器，这里使用qq邮箱
 mail_host = "smtp.qq.com"
 # 发件人邮箱
@@ -19,7 +20,7 @@ mail_sender = "1255965856@qq.com"
 # 邮箱授权码，注意这里不是邮箱密码！！！
 mail_license = "yrdmlhmqbfinjfbj"
 # 收件人邮箱，可以为多个收件人
-mail_receivers = ["10497457@qq.com","1255409463@qq.com"]
+mail_receivers = ["16422802@qq.com"]
 # 构建MIMEMultipart对象代表邮件本身，可以往里面添加文本、图片、附件等
 mm = MIMEMultipart('related')
 # 邮件主题
@@ -27,20 +28,20 @@ subject_content = """Python邮件测试"""
 # 设置发送者，注意格式，里面邮箱为发件人邮箱
 mm["From"] = "〓_ 厌倦）<1255965856@qq.com>"
 # 设置接受者，注意格式，里面邮箱为接受者邮箱，可以设置多个
-mm["To"] = "北狼<10497457@qq.com>,＝–＝<1255409463@qq.com>"
+mm["To"] = "陶然然<16422802@qq.com>"
 # 设置邮箱主题
-mm["Subject"] = Header(subject_content,'utf-8')
+mm["Subject"] = Header(subject_content, 'utf-8')
 # 邮箱正文内容
-body_content = """测试使用python发送邮件"""
+body_content = """(*^ V ^*)"""
 # 构造文本，参数1：正文内容，参数2：文本格式，参数3：编码方法
 message_text = MIMEText(body_content, "plain", "utf-8")
 # 向MIMEMultipart对象中添加文本对象
 mm.attach(message_text)
 # 构造附件
-atta = MIMEText(open('./res/1.jpg',
-                      'rb').read(), 'base64', 'utf-8')
+atta = MIMEText(open('./res/excel/soft1851.xlsx',
+                     'rb').read(), 'base64', 'utf-8')
 # 设置附件信息
-atta["Content-Disposition"] = 'attachment; filemame="1.jpg"'
+atta["Content-Disposition"] = 'attachment; filename="soft1851.xlsx"'
 # 添加附件到邮件信息当中去
 mm.attach(atta)
 # 创建SMTP对象
