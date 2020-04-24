@@ -8,7 +8,7 @@ import requests
 resp = requests.get('http://api.tianapi.com/allnews/index?key=6108db9f49b44a21f43304eb78af39f6&num=10&col=7')
 newslist = json.loads(resp.text)['newslist']
 result = []
-data = './data.json'
+data = './res/data.json'
 for news in newslist:
     temp_dict = {}
     temp_dict['title'] = news['title']

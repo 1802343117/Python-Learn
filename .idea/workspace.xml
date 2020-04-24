@@ -2,9 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="775b2889-34e7-471e-8877-5e678a893311" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Basic grammar/Exercise47.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basic grammar/Exercise48.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/Exercise49.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/QR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/avatar/0.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/avatar/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/avatar/2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/avatar/3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/avatar/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/avatar/5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/avatar/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/avatar/7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/avatar/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/avatar/9.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/avatar/all.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/rj1851.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Basic grammar/Exercise20.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Basic grammar/Exercise20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Basic grammar/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Python Basic grammar/res/data.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,11 +46,15 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python Basic grammar/res" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="J:\Python Learn\Python Basic grammar\res" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="J:\Python Learn\Python Basic grammar\res" />
       <recent name="J:\Python Learn\Python Basic grammar" />
     </key>
   </component>
@@ -49,8 +70,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exercise48">
-    <configuration name="Exercise44" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Exercise49">
+    <configuration name="Exercise20" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,7 +83,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Basic grammar/Exercise44.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Basic grammar/Exercise20.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercise45" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exercise21" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,7 +104,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Basic grammar/Exercise45.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Basic grammar/Exercise21.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercise46" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Exercise31" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,28 +125,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Basic grammar/Exercise46.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Exercise47" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python Learn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Basic grammar" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Basic grammar/Exercise47.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Basic grammar/Exercise31.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,13 +155,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Exercise49" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Basic grammar" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Basic grammar/Exercise49.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercise49" />
+        <item itemvalue="Python.Exercise31" />
+        <item itemvalue="Python.Exercise21" />
+        <item itemvalue="Python.Exercise20" />
         <item itemvalue="Python.Exercise48" />
-        <item itemvalue="Python.Exercise47" />
-        <item itemvalue="Python.Exercise46" />
-        <item itemvalue="Python.Exercise45" />
-        <item itemvalue="Python.Exercise44" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +198,9 @@
       <updated>1585235000559</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
