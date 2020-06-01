@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="775b2889-34e7-471e-8877-5e678a893311" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Basic grammar/Exercise99.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/Exercise100.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,13 +32,13 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="J:\Python Learn\Python Basic grammar\res" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="J:\Python Learn\Python Basic grammar\res\ttf" />
       <recent name="J:\Python Learn\Python Basic grammar\res" />
       <recent name="J:\Python Learn\Python Basic grammar" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="J:\Python Learn\Python Basic grammar\res" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -53,8 +53,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exercise99">
-    <configuration name="Exercise92" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Exercise100">
+    <configuration name="Exercise100" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,7 +66,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Basic grammar/Exercise92.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Basic grammar/Exercise100.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,19 +160,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Exercise92" />
       <item itemvalue="Python.Exercise93" />
       <item itemvalue="Python.Exercise94" />
       <item itemvalue="Python.Exercise97" />
       <item itemvalue="Python.Exercise99" />
+      <item itemvalue="Python.Exercise100" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercise100" />
         <item itemvalue="Python.Exercise99" />
         <item itemvalue="Python.Exercise97" />
         <item itemvalue="Python.Exercise94" />
         <item itemvalue="Python.Exercise93" />
-        <item itemvalue="Python.Exercise92" />
       </list>
     </recent_temporary>
   </component>
