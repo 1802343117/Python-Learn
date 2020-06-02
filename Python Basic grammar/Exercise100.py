@@ -42,27 +42,27 @@ import numpy as np
 # plt.plot(x, y, 'r--')
 # plt.text(1.5, 10, 'y=x*x')
 
-# 绘制爱心
-x = np.linspace(-8, 8, 1024)
-y1 = 0.618 * np.abs(x) - 0.5 * np.sqrt(64 - x ** 2)
-y2 = 0.618 * np.abs(x) + 0.8 * np.sqrt(64 - x ** 2)
-plt.plot(x, y1, color='r')
-plt.plot(x, y2, color='r')
-plt.show()
-
-
-plt.plot(x, y1, 'r--')
-plt.plot(x, y2, 'r--')
-plt.show()
-
-plt.plot(x, y1, 'b')
-plt.plot(x, y2, 'b')
-plt.show()
-
-plt.plot(x, y1, 'c')
-plt.plot(x, y2, 'c')
-plt.show()
-
-plt.plot(x, y1, 'Pink')
-plt.plot(x, y2, 'Pink')
-plt.show()
+# # 绘制爱心
+# x = np.linspace(-8, 8, 1024)
+# y1 = 0.618 * np.abs(x) - 0.5 * np.sqrt(64 - x ** 2)
+# y2 = 0.618 * np.abs(x) + 0.8 * np.sqrt(64 - x ** 2)
+# plt.plot(x, y1, color='r')
+# plt.plot(x, y2, color='r')
+# plt.show()
+#
+#
+# plt.plot(x, y1, 'r--')
+# plt.plot(x, y2, 'r--')
+# plt.show()
+#
+# plt.plot(x, y1, 'b')
+# plt.plot(x, y2, 'b')
+# plt.show()
+#
+# plt.plot(x, y1, 'c')
+# plt.plot(x, y2, 'c')
+# plt.show()
+#
+# plt.plot(x, y1, 'Pink')
+# plt.plot(x, y2, 'Pink')
+# plt.show()
