@@ -2,183 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="775b2889-34e7-471e-8877-5e678a893311" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Actual combat/aaa.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actual combat/bbb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actual combat/ccc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actual combat/file/build/test/Analysis-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actual combat/file/build/test/EXE-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actual combat/file/build/test/PKG-00.pkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actual combat/file/build/test/PKG-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actual combat/file/build/test/PYZ-00.pyz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actual combat/file/build/test/PYZ-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actual combat/file/build/test/Tree-00.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actual combat/file/build/test/Tree-01.toc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actual combat/file/build/test/base_library.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actual combat/file/build/test/test.exe.manifest" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actual combat/file/build/test/warn-test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actual combat/file/build/test/xref-test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actual combat/file/dist/test.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actual combat/file/file.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actual combat/file/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actual combat/file/test.spec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actual combat/number.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actual combat/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actual combat/word转json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Actual combat/考题库.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basic grammar/Exercise101.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/csv/maoyan.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/考题库.spec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/Exercise102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/dataset/movies.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/dataset/ratings.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/dataset/users.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/html/movie1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/movie1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Basic grammar/res/img/movie2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/Exercise100.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Basic grammar/Exercise100.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/丽桑卓" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/乌迪尔" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/乐芙兰" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/亚托克斯" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/亚索" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/伊泽瑞尔" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/伊芙琳" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/伊莉丝" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/佐伊" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/俄洛伊" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/克格莫" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/克烈" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/兰博" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/内瑟斯" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/凯南" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/凯尔" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/凯特琳" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/凯隐" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/加里奥" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/努努和威朗普" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/劫" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/千珏" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/卡兹克" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/卡尔玛" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/卡尔萨斯" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/卡特琳娜" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/卡莉丝塔" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/卡莎" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/卡萨丁" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/卡蜜尔" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/卡西奥佩娅" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/卢锡安" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/厄加特" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/厄斐琉斯" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/厄运小姐" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/古拉加斯" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/吉格斯" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/嘉文四世" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/图奇" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/基兰" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/塔姆" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/塔莉垭" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/塔里克" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/塞拉斯" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/墨菲特" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/奇亚娜" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/奈德丽" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/奎因" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/奥恩" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/奥拉夫" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/奥瑞利安·索尔" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/奥莉安娜" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/妮蔻" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/娑娜" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/娜美" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/婕拉" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/孙悟空" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/安妮" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/崔丝塔娜" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/崔斯特" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/巴德" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/布兰德" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/布里茨" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/布隆" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/希瓦娜" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/希维尔" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/库奇" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/弗拉基米尔" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/德莱厄斯" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/德莱文" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/悠米" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/慎" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/扎克" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/拉克丝" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/拉莫斯" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/提莫" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/斯卡纳" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/斯维因" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/易" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/普朗克" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/李青" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/杰斯" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/格雷福斯" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/沃利贝尔" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/沃里克" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/波比" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/泰达米尔" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/泰隆" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/泽拉斯" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/洛" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/派克" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/潘森" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/烬" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/特朗德尔" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/玛尔扎哈" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/瑞兹" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/瑟庄妮" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/瑟提" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/璐璐" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/盖伦" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/科加斯" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/索拉卡" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/约里克" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/纳尔" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/维克兹" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/维克托" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/维迦" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/艾克" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/艾尼维亚" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/艾希" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/艾瑞莉娅" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/艾翁" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/茂凯" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/莫德凯撒" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/莫甘娜" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/菲兹" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/菲奥娜" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/萨科" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/蒙多医生" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/蔚" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/蕾欧娜" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/薇恩" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/诺提勒斯" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/费德提克" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/贾克斯" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/赛娜" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/赛恩" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/赫卡里姆" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/赵信" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/辛吉德" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/辛德拉" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/迦娜" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/金克丝" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/锐雯" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/锤石" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/阿兹尔" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/阿利斯塔" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/阿卡丽" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/阿木木" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/阿狸" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/雷克塞" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/雷克顿" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/雷恩加尔" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/霞" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/韦鲁斯" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/魔腾" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/黑默丁格" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Basic grammar/res/img/黛安娜" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -230,7 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exercise101">
+  <component name="RunManager" selected="Python.Exercise102">
     <configuration name="考题库" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -265,6 +96,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Basic grammar/Exercise101.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercise102" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Basic grammar" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Basic grammar/Exercise102.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -336,41 +188,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="word转json" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python Learn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Actual combat" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Actual combat/word转json.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.word转json" />
       <item itemvalue="Python.bbb" />
       <item itemvalue="Python.考题库" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.Exercise101" />
+      <item itemvalue="Python.Exercise102" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercise102" />
         <item itemvalue="Python.Exercise101" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.考题库" />
         <item itemvalue="Python.bbb" />
-        <item itemvalue="Python.word转json" />
       </list>
     </recent_temporary>
   </component>
